@@ -41,6 +41,7 @@
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>C:\Program Files (x86)\AMD APP SDK\2.9\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Program Files (x86)\AMD APP SDK\2.9\lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>..\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>

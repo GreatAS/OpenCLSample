@@ -150,7 +150,7 @@ int main(int argc, char* argv[]) {
 	/*****************************************************************************
 	 * 3. Load CL Program
 	 ****************************************************************************/
-	string filename = "..\\OpenCLSample\\sample.cl";
+	string filename = "sample.cl";
 	ifstream ifs(filename);
 	if(ifs.fail()) {
 		cout << "Failed to open file: " << filename.c_str() << endl;

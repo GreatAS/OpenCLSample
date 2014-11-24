@@ -6,3 +6,4 @@ ipch
 *.ilk
 *.pdb
 Debug
+*.opensdf
