@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCLSample", "OpenCLSample\OpenCLSample.vcxproj", "{6EBE7FC1-CB13-4DE3-9C66-CAD7F1B16523}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCLGrayScale", "OpenCLGrayScale\OpenCLGrayScale.vcxproj", "{133716ED-37D3-4EF8-8106-000AFDC403C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCLBase", "OpenCLBase\OpenCLBase.vcxproj", "{FC9118DB-4F30-4C3A-A0D6-0ED19F91FB6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCLImage2D", "OpenCLImage2D\OpenCLImage2D.vcxproj", "{03131BAC-05CA-456D-8F7C-64A4BEB1EBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBE7FC1-CB13-4DE3-9C66-CAD7F1B16523}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6EBE7FC1-CB13-4DE3-9C66-CAD7F1B16523}.Debug|Win32.Build.0 = Debug|Win32
+		{6EBE7FC1-CB13-4DE3-9C66-CAD7F1B16523}.Release|Win32.ActiveCfg = Release|Win32
+		{6EBE7FC1-CB13-4DE3-9C66-CAD7F1B16523}.Release|Win32.Build.0 = Release|Win32
+		{133716ED-37D3-4EF8-8106-000AFDC403C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{133716ED-37D3-4EF8-8106-000AFDC403C4}.Debug|Win32.Build.0 = Debug|Win32
+		{133716ED-37D3-4EF8-8106-000AFDC403C4}.Release|Win32.ActiveCfg = Release|Win32
+		{133716ED-37D3-4EF8-8106-000AFDC403C4}.Release|Win32.Build.0 = Release|Win32
+		{FC9118DB-4F30-4C3A-A0D6-0ED19F91FB6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC9118DB-4F30-4C3A-A0D6-0ED19F91FB6B}.Debug|Win32.Build.0 = Debug|Win32
+		{FC9118DB-4F30-4C3A-A0D6-0ED19F91FB6B}.Release|Win32.ActiveCfg = Release|Win32
+		{FC9118DB-4F30-4C3A-A0D6-0ED19F91FB6B}.Release|Win32.Build.0 = Release|Win32
+		{03131BAC-05CA-456D-8F7C-64A4BEB1EBF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03131BAC-05CA-456D-8F7C-64A4BEB1EBF5}.Debug|Win32.Build.0 = Debug|Win32
+		{03131BAC-05CA-456D-8F7C-64A4BEB1EBF5}.Release|Win32.ActiveCfg = Release|Win32
+		{03131BAC-05CA-456D-8F7C-64A4BEB1EBF5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
